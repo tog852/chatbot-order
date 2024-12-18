@@ -1,0 +1,54 @@
+{
+  "id": "47821bd3-ac3f-4ec9-903c-47c6aed20e68",
+  "name": "menu_ăn_kèm",
+  "auto": true,
+  "contexts": [
+    "orderdrink-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "orderdrink-yes-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "3",
+          "platform": "facebook",
+          "imageUrl": "https://wcomvn.s3.ap-southeast-1.amazonaws.com/image/2021/04/23014532/menu-banh-ngot-thiet-ke-don-gian-mn23042021-002.jpg",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Đây là menu ăn kèm của bạn ! : bánh vòng_bánh cà rốt_bánh sừng bò_bánh cupcake_bánh Đan Mạch_bánh đế sâu_donut_Bánh muffin_Bánh mận_Salad"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

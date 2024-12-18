@@ -1,0 +1,301 @@
+[
+  {
+    "id": "d610be45-e45a-438a-8348-e8bf64122940",
+    "data": [
+      {
+        "text": "tôi muốn ",
+        "userDefined": false
+      },
+      {
+        "text": "dùng",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sữa đậu nành",
+        "meta": "@milk-type",
+        "alias": "milk-type",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0612fc47-0c2f-4add-a1b7-dd3dbf1c240b",
+    "data": [
+      {
+        "text": "tôi ",
+        "userDefined": false
+      },
+      {
+        "text": "cần",
+        "userDefined": false
+      },
+      {
+        "text": " ly ",
+        "userDefined": false
+      },
+      {
+        "text": "latte",
+        "meta": "@drink",
+        "alias": "drink",
+        "userDefined": false
+      },
+      {
+        "text": " mang ",
+        "userDefined": false
+      },
+      {
+        "text": "đi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a5fe6356-f8e9-4a1f-a748-30935dcaf24b",
+    "data": [
+      {
+        "text": "thêm topping ",
+        "userDefined": false
+      },
+      {
+        "text": "caramel",
+        "meta": "@topping",
+        "alias": "topping",
+        "userDefined": false
+      },
+      {
+        "text": " nha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df9447e6-9164-4c2e-8d9d-3e21d1df8c5e",
+    "data": [
+      {
+        "text": "tôi cần ",
+        "userDefined": false
+      },
+      {
+        "text": "một ly",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "meta": "@drink",
+        "alias": "drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54439e1e-2758-4710-81f7-e6d03ff6851f",
+    "data": [
+      {
+        "text": "Quán mình có ",
+        "userDefined": false
+      },
+      {
+        "text": "latte",
+        "meta": "@drink",
+        "alias": "drink",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Lạnh",
+        "meta": "@iced",
+        "alias": "iced",
+        "userDefined": true
+      },
+      {
+        "text": " không",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c688e3a-4418-4a90-b244-a18d60188888",
+    "data": [
+      {
+        "text": "Mình có thể gọi một  ",
+        "userDefined": false
+      },
+      {
+        "text": "cappuccino",
+        "meta": "@drink",
+        "alias": "drink",
+        "userDefined": true
+      },
+      {
+        "text": " lạnh kèm ",
+        "userDefined": false
+      },
+      {
+        "text": "đường",
+        "meta": "@topping",
+        "alias": "topping",
+        "userDefined": true
+      },
+      {
+        "text": " không",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b8bb2f2-9a52-482e-9569-adc10801d730",
+    "data": [
+      {
+        "text": "Mình có thể gọi ",
+        "userDefined": false
+      },
+      {
+        "text": "trà",
+        "meta": "@drink",
+        "alias": "drink",
+        "userDefined": true
+      },
+      {
+        "text": " không",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48925812-8a8d-43d3-a31b-e4d12ea897bc",
+    "data": [
+      {
+        "text": "cho tôi ",
+        "userDefined": false
+      },
+      {
+        "text": "chocolate nóng",
+        "meta": "@drink",
+        "alias": "drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c86344c1-8a55-48f8-874b-1644c76d27a0",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "amount",
+        "userDefined": false
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "macchiato",
+        "meta": "@drink",
+        "alias": "drink",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Vừa",
+        "meta": "@size",
+        "alias": "size",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40a8cd13-578a-4306-8054-6b73f9f8f0fc",
+    "data": [
+      {
+        "text": "cho mình ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "meta": "@drink",
+        "alias": "drink",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lạnh",
+        "meta": "@iced",
+        "alias": "iced",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5956fad1-19ac-40b0-8c86-6ee9f4325231",
+    "data": [
+      {
+        "text": "cappuccino",
+        "meta": "@drink",
+        "alias": "drink",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

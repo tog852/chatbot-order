@@ -1,0 +1,160 @@
+[
+  {
+    "id": "abbc257c-9a9c-4238-95af-808000ffc8f9",
+    "data": [
+      {
+        "text": "chuyển ",
+        "userDefined": false
+      },
+      {
+        "text": "đến",
+        "userDefined": false
+      },
+      {
+        "text": " nội dung tiếp theo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi-vn",
+    "updated": 0
+  },
+  {
+    "id": "f8415b00-9cea-4715-b080-d77b942de924",
+    "data": [
+      {
+        "text": "kết quả tiếp theo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi-vn",
+    "updated": 0
+  },
+  {
+    "id": "1a9b5e92-f07d-4a4a-82b7-de687fb79265",
+    "data": [
+      {
+        "text": "hiển thị cho tôi các kết quả tiếp theo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi-vn",
+    "updated": 0
+  },
+  {
+    "id": "eb999fd9-a3b8-40b5-b940-902841f5cbae",
+    "data": [
+      {
+        "text": "hiển thị cho tôi ",
+        "userDefined": false
+      },
+      {
+        "text": "trang",
+        "userDefined": false
+      },
+      {
+        "text": " tiếp theo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi-vn",
+    "updated": 0
+  },
+  {
+    "id": "fc2acb6b-408b-4ca5-a018-cb7bd1f2c25f",
+    "data": [
+      {
+        "text": "hiển thị cho tôi kết quả tiếp theo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi-vn",
+    "updated": 0
+  },
+  {
+    "id": "d652a2f8-ea8f-4012-b754-35d6f667564c",
+    "data": [
+      {
+        "text": "trang",
+        "userDefined": false
+      },
+      {
+        "text": " tiếp theo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi-vn",
+    "updated": 0
+  },
+  {
+    "id": "528dd6cc-0aaa-4cf1-9198-1f237bb4f638",
+    "data": [
+      {
+        "text": "tiếp theo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi-vn",
+    "updated": 0
+  },
+  {
+    "id": "b5575291-7c95-4496-a1ec-3439fa359ca9",
+    "data": [
+      {
+        "text": "truy cập ",
+        "userDefined": false
+      },
+      {
+        "text": "trang",
+        "userDefined": false
+      },
+      {
+        "text": " tiếp theo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi-vn",
+    "updated": 0
+  },
+  {
+    "id": "9927ce38-7dc8-432a-8741-8827cf46ee01",
+    "data": [
+      {
+        "text": "tiến",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi-vn",
+    "updated": 0
+  },
+  {
+    "id": "8229e801-4dda-4325-a58c-b2642d6fd052",
+    "data": [
+      {
+        "text": "đọc kết quả tiếp theo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi-vn",
+    "updated": 0
+  }
+]

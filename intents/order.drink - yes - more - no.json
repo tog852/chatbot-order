@@ -1,0 +1,49 @@
+{
+  "id": "14391c2e-ba3e-4912-bf42-d5be45630fb6",
+  "parentId": "9faa4435-d198-43ae-bb7e-3a045ec0e229",
+  "rootParentId": "420f9b81-450c-46d7-85d0-a23f5c4d9443",
+  "name": "order.drink - yes - more - no",
+  "auto": true,
+  "contexts": [
+    "orderdrink-yes-more-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "order.drink.confirm.orderdrink-yes-more.orderdrink-yes-more-no",
+      "affectedContexts": [
+        {
+          "name": "no-followup",
+          "lifespan": 2,
+          "parameters": {}
+        },
+        {
+          "name": "orderdrink-yes-more-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "G4_Coffee xin lỗi vì sự hiểu nhầm. Xin vui lòng cho mình biết một lần nữa, bạn muốn đặt đồ ăn kèm gì?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

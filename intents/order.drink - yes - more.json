@@ -1,0 +1,97 @@
+{
+  "id": "9faa4435-d198-43ae-bb7e-3a045ec0e229",
+  "parentId": "eef5d302-8787-45ec-84fc-9db8f300079c",
+  "rootParentId": "420f9b81-450c-46d7-85d0-a23f5c4d9443",
+  "name": "order.drink - yes - more",
+  "auto": true,
+  "contexts": [
+    "orderdrink-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "order.drink.confirm.orderdrink-yes-more",
+      "affectedContexts": [
+        {
+          "name": "orderdrink-yes-more-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e4b54f05-d948-45ac-b5da-98964373ba40",
+          "name": "number",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "vui lòng chọn số lượng bạn muốn"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "971f403f-3828-4f99-b770-a1895a67c8bb",
+          "name": "snack",
+          "required": false,
+          "dataType": "@snack",
+          "value": "$snack",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6d10c16c-7739-4070-81e8-f9f0539374a9",
+          "name": "flavor",
+          "required": true,
+          "dataType": "@flavor",
+          "value": "$flavor",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "bạn có yêu cầu thêm hương vị nào không"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay ! $number $snack hương vị $flavor  có phải không ạ ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

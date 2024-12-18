@@ -1,0 +1,123 @@
+[
+  {
+    "id": "a14df03a-f505-4fc1-835f-5519474ba8bc",
+    "data": [
+      {
+        "text": "bất kỳ kết quả nào khác",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi-vn",
+    "updated": 0
+  },
+  {
+    "id": "626fa520-b903-4eaa-b69d-b16573c1b40f",
+    "data": [
+      {
+        "text": "cho tôi biết thêm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi-vn",
+    "updated": 0
+  },
+  {
+    "id": "f58c3f89-46e5-49a3-b330-4b739f1c6c68",
+    "data": [
+      {
+        "text": "thông tin khác",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi-vn",
+    "updated": 0
+  },
+  {
+    "id": "c1b226a4-ff4c-4e4e-90d1-db7bb0a464d4",
+    "data": [
+      {
+        "text": "thêm kết quả",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi-vn",
+    "updated": 0
+  },
+  {
+    "id": "5e8cdb1d-f107-4d96-a903-8f743d40f9da",
+    "data": [
+      {
+        "text": "khác",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi-vn",
+    "updated": 0
+  },
+  {
+    "id": "92036268-51ec-4089-a3a6-7407c1179239",
+    "data": [
+      {
+        "text": "kết quả khác",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi-vn",
+    "updated": 0
+  },
+  {
+    "id": "e9b79505-5356-40ea-b194-f95bfb1b01fd",
+    "data": [
+      {
+        "text": "còn gì nữa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi-vn",
+    "updated": 0
+  },
+  {
+    "id": "71fc0b92-e221-4b76-806e-c7b0c62fe57d",
+    "data": [
+      {
+        "text": "hiển thị thêm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi-vn",
+    "updated": 0
+  },
+  {
+    "id": "d6aa11c3-7f19-4076-85d4-2c67cd6c2bfc",
+    "data": [
+      {
+        "text": "có gì nữa ",
+        "userDefined": false
+      },
+      {
+        "text": "không",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi-vn",
+    "updated": 0
+  }
+]

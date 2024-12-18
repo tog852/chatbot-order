@@ -1,0 +1,77 @@
+{
+  "id": "f6230142-ad12-4b28-b995-b883b7856152",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "3",
+          "platform": "facebook",
+          "imageUrl": "https://cdn.dribbble.com/users/1299339/screenshots/15062741/avatouch_shot.png?resize\u003d400x0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "G04_COFFEE Xin chào và chúc bạn 1 ngày tốt đẹp. Chúng mình có các loại coffee tươi và đậm đà hương vị Việt kèm theo đó là những chiếc bánh vô cùng thơm ngon. Bạn muốn order Loại đồ ăn, thức uống nào ạ ?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "vi",
+          "speech": [
+            "Xin chào!",
+            "Chào bạn!",
+            "Chúc bạn ngày mới tốt lành!",
+            "Chào mừng bạn!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "vi-vn",
+          "speech": [
+            "Xin chào!",
+            "Chào bạn!",
+            "Chúc bạn ngày mới tốt lành!",
+            "Chào mừng bạn!"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

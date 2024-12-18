@@ -1,0 +1,96 @@
+[
+  {
+    "id": "21e285d7-d7d7-448d-9f52-36a57e6899be",
+    "data": [
+      {
+        "text": "Tôi không đặt ",
+        "userDefined": false
+      },
+      {
+        "text": "như",
+        "userDefined": false
+      },
+      {
+        "text": " vậy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cd5df445-7678-4c77-b552-225f342da9fb",
+    "data": [
+      {
+        "text": "Không phải vậy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "59a5d3ac-281d-4746-8a57-81745490c1f0",
+    "data": [
+      {
+        "text": "no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f44ac21-957d-4dd0-86de-9a5e8db42fa6",
+    "data": [
+      {
+        "text": "Tôi muốn đặt ",
+        "userDefined": false
+      },
+      {
+        "text": "thứ",
+        "userDefined": false
+      },
+      {
+        "text": " khác",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f3109a1-6d67-4090-a75c-31549fe36ca6",
+    "data": [
+      {
+        "text": "không phải",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d700e485-5d1e-4da6-b105-383fcc62a2c4",
+    "data": [
+      {
+        "text": "không",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

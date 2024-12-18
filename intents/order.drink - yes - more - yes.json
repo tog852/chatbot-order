@@ -1,0 +1,39 @@
+{
+  "id": "c72d2e11-3edc-4654-a2e7-738be262e9ba",
+  "parentId": "9faa4435-d198-43ae-bb7e-3a045ec0e229",
+  "rootParentId": "420f9b81-450c-46d7-85d0-a23f5c4d9443",
+  "name": "order.drink - yes - more - yes",
+  "auto": true,
+  "contexts": [
+    "orderdrink-yes-more-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "order.drink.confirm.orderdrink-yes-more.orderdrink-yes-more-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Cảm ơn bạn. Vậy bạn sẽ thanh toán bằng phương thức chuyển khoản hay trả tiền mặt ạ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

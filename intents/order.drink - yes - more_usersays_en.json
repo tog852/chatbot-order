@@ -1,0 +1,233 @@
+[
+  {
+    "id": "e888ceaf-601d-4d85-a5e7-4f8f7dc01778",
+    "data": [
+      {
+        "text": "Tôi rất muốn được ",
+        "userDefined": false
+      },
+      {
+        "text": "thưởng",
+        "userDefined": false
+      },
+      {
+        "text": " thức món ",
+        "userDefined": false
+      },
+      {
+        "text": "Đan Mạch",
+        "meta": "@snack",
+        "alias": "snack",
+        "userDefined": false
+      },
+      {
+        "text": " với ",
+        "userDefined": false
+      },
+      {
+        "text": "bột hạnh nhân",
+        "meta": "@flavor",
+        "alias": "flavor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6e8bd5a-fba5-4c2a-808e-dddbe058173d",
+    "data": [
+      {
+        "text": "bạn ",
+        "userDefined": false
+      },
+      {
+        "text": "có",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bánh sừng bò",
+        "meta": "@snack",
+        "alias": "snack",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "không",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb0a1783-6c41-432e-bc2f-b96205def753",
+    "data": [
+      {
+        "text": "xin vui lòng ",
+        "userDefined": false
+      },
+      {
+        "text": "làm",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bánh cupcake",
+        "meta": "@snack",
+        "alias": "snack",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dâu tây",
+        "meta": "@flavor",
+        "alias": "flavor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c9e2962-dda8-4124-af44-6a17d6059558",
+    "data": [
+      {
+        "text": "mang ",
+        "userDefined": false
+      },
+      {
+        "text": "cho",
+        "userDefined": false
+      },
+      {
+        "text": " tôi ",
+        "userDefined": false
+      },
+      {
+        "text": "một",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " cái ",
+        "userDefined": false
+      },
+      {
+        "text": "bánh mì tròn",
+        "meta": "@snack",
+        "alias": "snack",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d302a8b5-45c2-4caa-822a-85545448388d",
+    "data": [
+      {
+        "text": "bánh",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "strudel",
+        "meta": "@snack",
+        "alias": "snack",
+        "userDefined": false
+      },
+      {
+        "text": " với ",
+        "userDefined": false
+      },
+      {
+        "text": "phô mai",
+        "meta": "@flavor",
+        "alias": "flavor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2a2933b-ba94-419f-94b9-37b3f53c27db",
+    "data": [
+      {
+        "text": "salad",
+        "meta": "@snack",
+        "alias": "snack",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29a91d4e-361d-4442-b82b-d6f70fb3d613",
+    "data": [
+      {
+        "text": "cho",
+        "userDefined": false
+      },
+      {
+        "text": " tôi ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " cái ",
+        "userDefined": false
+      },
+      {
+        "text": "bánh mì tròn",
+        "meta": "@snack",
+        "alias": "snack",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

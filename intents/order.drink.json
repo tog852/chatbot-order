@@ -1,0 +1,200 @@
+{
+  "id": "420f9b81-450c-46d7-85d0-a23f5c4d9443",
+  "name": "order.drink",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "order.drink",
+      "affectedContexts": [
+        {
+          "name": "orderdrink-followup",
+          "lifespan": 2,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e842b9af-f948-433b-af28-991573c2bc33",
+          "name": "drink",
+          "required": true,
+          "dataType": "@drink",
+          "value": "$drink",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Bạn muốn gọi gì để uống"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9a605842-3efd-4f74-b20c-808eec83d343",
+          "name": "topping",
+          "required": true,
+          "dataType": "@topping",
+          "value": "$topping",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Bạn có muốn dùng thêm topping không"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "73acd8e4-d72c-411c-aa9b-d518bf878419",
+          "name": "milk-type",
+          "required": true,
+          "dataType": "@milk-type",
+          "value": "$milk-type",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Bạn muốn dùng với loại sữa nào nè"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "81d3b1d8-9f6e-46ff-8456-a04195a0cee9",
+          "name": "iced",
+          "required": true,
+          "dataType": "@iced",
+          "value": "$iced",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Bạn có muốn thêm đá không ạ"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1123f0e1-b3dc-4a35-9ebc-768d8a76a7f0",
+          "name": "size",
+          "required": true,
+          "dataType": "@size",
+          "value": "$size",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Bạn muốn chọn cỡ nhỏ, vừa, hay lớn"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1381f373-c5f3-4ec2-b132-fd8310442254",
+          "name": "amount",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$amount",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Vui lòng chọn số lượng bạn muốn"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "10031223-ccae-4b0d-b347-01ad6999d8f6",
+          "name": "delivery-pickup",
+          "required": true,
+          "dataType": "@delivery-pickup",
+          "value": "$delivery-pickup",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Bạn muốn mang đi hay dùng tại quán ạ"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Đồ bạn đặt có phải là : $size $drink Với $milk-type và bạn muốn  $delivery-pickup. Có phải không",
+            "Đơn của quý khách: $size $drink với $milk-type $topping Và bạn muốn  $delivery-pickup. Đúng chứ?",
+            "Đơn bạn đã đặt là : $amount $drink $size $iced $milk-type $topping Và bạn muốn  $delivery-pickup. Phài không?",
+            "Bạn muốn  $amount $drink $size với $milk-type $topping và bạn muốn  $delivery-pickup.chính xác chứ?",
+            "Bạn muốn  $amount ly $size  $drink $iced lạnh với $milk-type và bạn muốn nó $delivery-pickup. Đúng chứ?",
+            "Bạn muốn  $amount $size $drink và bạn muốn $delivery-pickup. Đúng chứ?",
+            "Bạn muốn $amount $size $drink  và bạn muốn $delivery-pickup. Đúng chứ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

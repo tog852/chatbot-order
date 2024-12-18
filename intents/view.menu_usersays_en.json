@@ -1,0 +1,124 @@
+[
+  {
+    "id": "d9157fba-e303-48d2-b6de-596a98fdfa57",
+    "data": [
+      {
+        "text": "Menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f319ef2-0fcb-4c8e-8ea9-91bc42af300b",
+    "data": [
+      {
+        "text": "Cho",
+        "userDefined": false
+      },
+      {
+        "text": " mình xin menu shop ơi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "103a41c0-1c62-41d3-8e76-70958fa57666",
+    "data": [
+      {
+        "text": "Ad ",
+        "userDefined": false
+      },
+      {
+        "text": "ơi",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cho",
+        "userDefined": false
+      },
+      {
+        "text": " mình coi menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89397176-0a35-4e24-9bc7-692856963e16",
+    "data": [
+      {
+        "text": "Menu ",
+        "userDefined": false
+      },
+      {
+        "text": "bạn",
+        "userDefined": false
+      },
+      {
+        "text": " ơi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39ea891c-15f2-4cf4-b9fc-6a88bc8c9de3",
+    "data": [
+      {
+        "text": "Cho",
+        "userDefined": false
+      },
+      {
+        "text": " tôi xin cái menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3cb6fa9-6b78-40d4-b535-33a2519a12d4",
+    "data": [
+      {
+        "text": "Tôi ",
+        "userDefined": false
+      },
+      {
+        "text": "có",
+        "userDefined": false
+      },
+      {
+        "text": " thể xem menu ",
+        "userDefined": false
+      },
+      {
+        "text": "chứ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

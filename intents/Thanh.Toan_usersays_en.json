@@ -1,0 +1,96 @@
+[
+  {
+    "id": "79288ff8-8da1-461b-b933-2f6837d4c43f",
+    "data": [
+      {
+        "text": "bank",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f99555d-dad7-4732-a365-db9f8d1706b2",
+    "data": [
+      {
+        "text": "chuyển khoản ",
+        "userDefined": false
+      },
+      {
+        "text": "ạ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5246a45-98b1-43b0-98ca-092359810547",
+    "data": [
+      {
+        "text": "chuyển ",
+        "userDefined": false
+      },
+      {
+        "text": "khoản",
+        "userDefined": false
+      },
+      {
+        "text": " đi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b6cf5ea-bbff-4f27-8be3-5185f2e4e214",
+    "data": [
+      {
+        "text": "ck",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f913762f-55b6-4b9c-ab2f-1bf5f320c50c",
+    "data": [
+      {
+        "text": "chuyển khoản",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54d0b156-e1c6-4a8c-8580-f4d004d140ba",
+    "data": [
+      {
+        "text": "Tôi muốn chuyển ",
+        "userDefined": false
+      },
+      {
+        "text": "khoản",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

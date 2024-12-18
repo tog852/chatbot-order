@@ -1,0 +1,97 @@
+{
+  "id": "1f39fa68-a8e0-4ff2-b225-c28c50e26727",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "I want a drink"
+            },
+            {
+              "title": "I\u0027m hungry"
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Tôi không hiểu bạn nói gì. Bạn có thể nói lại không?",
+            "Chủ quán rất giang hồ vui lòng order đàng hoàng cẩn thận nha khách iu :))"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "vi",
+          "speech": [
+            "Tôi chưa hiểu. Bạn có thể nói lại không?",
+            "Tôi chưa nghe rõ những gì bạn nói. Bạn có thể nhắc lại không?",
+            "Xin lỗi, bạn có thể nói lại không?",
+            "Xin lỗi, bạn có thể nhắc lại được không?",
+            "Bạn có thể nói lại thông tin đó không?",
+            "Xin lỗi, tôi vẫn chưa hiểu.",
+            "Xin lỗi, bạn nói gì cơ?",
+            "Vui lòng nhắc lại.",
+            "Bạn nói gì cơ?",
+            "Bạn có thể nhắc lại không?",
+            "Tôi chưa hiểu.",
+            "Tôi chưa nghe rõ."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "vi-vn",
+          "speech": [
+            "Tôi chưa hiểu. Bạn có thể nói lại không?",
+            "Tôi chưa nghe rõ những gì bạn nói. Bạn có thể nhắc lại không?",
+            "Xin lỗi, bạn có thể nói lại không?",
+            "Xin lỗi, bạn có thể nhắc lại được không?",
+            "Bạn có thể nói lại thông tin đó không?",
+            "Xin lỗi, tôi vẫn chưa hiểu.",
+            "Xin lỗi, bạn nói gì cơ?",
+            "Vui lòng nhắc lại.",
+            "Bạn nói gì cơ?",
+            "Bạn có thể nhắc lại không?",
+            "Tôi chưa hiểu.",
+            "Tôi chưa nghe rõ."
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

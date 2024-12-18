@@ -1,0 +1,57 @@
+{
+  "id": "765584e7-22f3-4c91-9f2a-656409961656",
+  "name": "view.menu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "view.menu",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "3",
+          "platform": "hangouts",
+          "imageUrl": "https://spacet-release.s3.ap-southeast-1.amazonaws.com/img/blog/2023-11-06/menu-highlands-coffee-cho-take-away-hoac-dat-hang-online-qua-app-65485ef05d22b5a617c2fa50.webp",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "3",
+          "platform": "facebook",
+          "imageUrl": "https://spacet-release.s3.ap-southeast-1.amazonaws.com/img/blog/2023-11-06/menu-highlands-coffee-cho-take-away-hoac-dat-hang-online-qua-app-65485ef05d22b5a617c2fa50.webp",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Dĩ nhiên rồi đây là menu Coffee !\n_ Americano\n_ Cappuccino\n_ Cocoa\n_ Espresso\n_ Espresso Macchiato\n_ Espresso con Panna\n_ Hot Chocolate\n_ Latte\n_  Macchiato\n_ Tea\n_ coffee"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "hangouts": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

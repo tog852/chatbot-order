@@ -1,0 +1,28 @@
+[
+  {
+    "id": "a4c621b5-e39a-45e6-a6d5-e7990c7bc177",
+    "data": [
+      {
+        "text": "không",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa093560-2146-4123-9a76-8dab2e6a1ff4",
+    "data": [
+      {
+        "text": "No",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

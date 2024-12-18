@@ -1,0 +1,88 @@
+[
+  {
+    "id": "4320d588-1177-48ab-917f-29dc25982780",
+    "data": [
+      {
+        "text": "Không",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e5a6c36-590b-4ddf-8c85-88cac344b7a6",
+    "data": [
+      {
+        "text": "Sai sô lượng rồi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0b747b1-e9d1-4e21-abc8-96018a5258fd",
+    "data": [
+      {
+        "text": "tôi muốn ",
+        "userDefined": false
+      },
+      {
+        "text": "chỉnh",
+        "userDefined": false
+      },
+      {
+        "text": " sửa lại",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd8400ba-707c-49d7-9812-f9991c825d33",
+    "data": [
+      {
+        "text": "Tôi không muốn vậy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "421fb7e5-50ca-4a9c-92fc-fc7a3cb0a364",
+    "data": [
+      {
+        "text": "sai món rồi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4cd4d036-9430-415e-ae0b-a6737806448b",
+    "data": [
+      {
+        "text": "Tôi không đồng ý",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

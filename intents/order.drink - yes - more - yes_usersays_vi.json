@@ -1,0 +1,144 @@
+[
+  {
+    "id": "9c5e04d8-f57d-4792-82e0-d85e7944202c",
+    "data": [
+      {
+        "text": "được",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi",
+    "updated": 0
+  },
+  {
+    "id": "ce1c9c15-20ec-4aed-9c97-d5b53891c8c8",
+    "data": [
+      {
+        "text": "Tôi ",
+        "userDefined": false
+      },
+      {
+        "text": "không",
+        "userDefined": false
+      },
+      {
+        "text": " bận ",
+        "userDefined": false
+      },
+      {
+        "text": "tâm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi",
+    "updated": 0
+  },
+  {
+    "id": "4f1ebae5-9ec8-4514-9644-2bb820e21ff2",
+    "data": [
+      {
+        "text": "có",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi",
+    "updated": 0
+  },
+  {
+    "id": "acd87d09-a049-4849-ba45-9fb9565dd8c9",
+    "data": [
+      {
+        "text": "được đấy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi",
+    "updated": 0
+  },
+  {
+    "id": "9c028c45-dd7c-4510-a266-42925bca48be",
+    "data": [
+      {
+        "text": "xác nhận",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi",
+    "updated": 0
+  },
+  {
+    "id": "538600fa-0bcc-4658-b3e7-378532bf5603",
+    "data": [
+      {
+        "text": "tất nhiên",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi",
+    "updated": 0
+  },
+  {
+    "id": "62c875a6-1e5f-4aa4-aad2-a7fa3689efee",
+    "data": [
+      {
+        "text": "chắc chắn rồi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi",
+    "updated": 0
+  },
+  {
+    "id": "5fffb82d-03d7-43d5-a0a7-05cf50c854e3",
+    "data": [
+      {
+        "text": "Tôi đồng ý",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi",
+    "updated": 0
+  },
+  {
+    "id": "fd7c4099-125f-47d7-b75f-d2a26e9582c0",
+    "data": [
+      {
+        "text": "chuẩn rồi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi",
+    "updated": 0
+  },
+  {
+    "id": "e92b8594-c992-485a-99e4-45c37bf8e638",
+    "data": [
+      {
+        "text": "chính xác",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "vi",
+    "updated": 0
+  }
+]
