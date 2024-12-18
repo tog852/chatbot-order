@@ -1,0 +1,33 @@
+[
+  {
+    "value": "có lạnh",
+    "synonyms": [
+      "có lạnh"
+    ]
+  },
+  {
+    "value": "không",
+    "synonyms": [
+      "không",
+      "không đá",
+      "không cần đá"
+    ]
+  },
+  {
+    "value": "ít đá",
+    "synonyms": [
+      "Một chút thôi",
+      "ít đá",
+      "lạnh",
+      "vừa đủ lạnh",
+      "vừa đủ"
+    ]
+  },
+  {
+    "value": "Nhiều đá",
+    "synonyms": [
+      "Nhiều đá",
+      "thật lạnh"
+    ]
+  }
+]

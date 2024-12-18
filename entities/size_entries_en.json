@@ -1,0 +1,23 @@
+[
+  {
+    "value": "lớn",
+    "synonyms": [
+      "lớn",
+      "bự"
+    ]
+  },
+  {
+    "value": "vừa",
+    "synonyms": [
+      "vừa",
+      "medium"
+    ]
+  },
+  {
+    "value": "nhỏ",
+    "synonyms": [
+      "nhỏ",
+      "bé"
+    ]
+  }
+]

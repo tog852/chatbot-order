@@ -1,0 +1,70 @@
+[
+  {
+    "value": "Americano",
+    "synonyms": [
+      "Americano"
+    ]
+  },
+  {
+    "value": "Barista Coffee",
+    "synonyms": [
+      "Barista Coffee"
+    ]
+  },
+  {
+    "value": "cappuccino",
+    "synonyms": [
+      "cappuccino"
+    ]
+  },
+  {
+    "value": "Cocoa",
+    "synonyms": [
+      "Cocoa"
+    ]
+  },
+  {
+    "value": "Espresso",
+    "synonyms": [
+      "Espresso"
+    ]
+  },
+  {
+    "value": "Espresso Macchiato",
+    "synonyms": [
+      "Espresso Macchiato"
+    ]
+  },
+  {
+    "value": "Espresso con Panna",
+    "synonyms": [
+      "Espresso con Panna"
+    ]
+  },
+  {
+    "value": "Hot Chocolate",
+    "synonyms": [
+      "Hot Chocolate",
+      "chocolate nóng",
+      "chocolate"
+    ]
+  },
+  {
+    "value": "Latte",
+    "synonyms": [
+      "Latte"
+    ]
+  },
+  {
+    "value": "Macchiato",
+    "synonyms": [
+      "Macchiato"
+    ]
+  },
+  {
+    "value": "Trà",
+    "synonyms": [
+      "Trà"
+    ]
+  }
+]
