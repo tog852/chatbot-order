@@ -1,0 +1,61 @@
+{
+  "description": "This agent allows your app to help users with order coffee drinks, snacks, and other merchandise from a coffee shop service. After importing, add your own custom drinks and items to cover your needs.",
+  "language": "en",
+  "shortDescription": "Order drinks and snacks from a coffee shop",
+  "examples": "User: I\u0027d like a coffee to go.\nUser: Can I get a small iced latte with low fat milk?\nUser: Two medium cappuccinos please.\n\nUser: Can I get three doughnuts please?\nUser: I\u0027d love to get a bagel with cream cheese.\nUser: I\u0027m hungry.\n\nUser: I would like to order a gift card with $50 on it.\nUser: I\u0027m looking for a present.",
+  "linkToDocs": "",
+  "displayName": "G4_COFFEE",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [
+      "29d6940b-d954-4ec6-bd25-6384c551b30f",
+      "6633c7f5-3fcd-4727-b0fe-ab04d868ce4b"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "providerId": "",
+      "authorizationUrl": "",
+      "tokenUrl": "",
+      "scopes": "",
+      "privacyPolicyUrl": "",
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "V1",
+    "autoPreviewEnabled": false,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Asia/Bangkok",
+  "webhook": {
+    "url": "",
+    "username": "",
+    "headers": {},
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": false,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [
+    "vi",
+    "vi-vn"
+  ],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2",
+  "secondaryKey": "ceb9879f13ee4a58a9a25fdfe8e059f0",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
+}
